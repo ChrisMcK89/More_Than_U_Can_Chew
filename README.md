@@ -31,7 +31,7 @@
  <table>
   <tr>
     <td>Emptied Basket</td>
-     <td><Place/Show Orders/td>
+     <td>Orders</td>
      <td>New User</td>
   </tr>
   <tr>
