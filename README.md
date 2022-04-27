@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><img src="Images/mtyccScreenshotHomepage.jpg" width="250px" ></td>
-    <td><img src="Images/mtyccScreenshotBakeriesNearYou.jpg" width="250px" ></td>
     <td><img src="Images/mtyccScreenshotUserLogin.jpg" width="250px" ></td>
-  </tr>
+    <td><img src="Images/mtyccScreenshotBakeriesNearYou.jpg" width="250px" ></td>
+    </tr>
  </table>
