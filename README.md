@@ -28,5 +28,17 @@
     <td><img src="Images/mtyccScreenshotBasket.jpg" width="250px" ></td>
     </tr>
  </table>
+ <table>
+  <tr>
+    <td>Emptied Basket</td>
+     <td><Place/Show Orders/td>
+     <td>New User</td>
+  </tr>
+  <tr>
+    <td><img src="Images/mtyccScreenshotEmptiedBasket.jpg" width="250px" ></td>
+    <td><img src="Images/mtyccScreenshotCurrentOrders.jpg" width="250px" ></td>
+    <td><img src="Images/mtyccScreenshotCreateUser.jpg" width="250px" ></td>
+    </tr>
+ </table>
  
  
